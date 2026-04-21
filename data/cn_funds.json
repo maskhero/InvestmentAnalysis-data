@@ -1,0 +1,16 @@
+[
+  {
+    "code": "110011",
+    "name": "易方达中小盘混合",
+    "date": "2026-04-21",
+    "nav": 4.213,
+    "source": "mock_cn_provider"
+  },
+  {
+    "code": "161725",
+    "name": "招商中证白酒指数(LOF)",
+    "date": "2026-04-21",
+    "nav": 1.872,
+    "source": "mock_cn_provider"
+  }
+]

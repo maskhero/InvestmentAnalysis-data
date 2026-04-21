@@ -1,0 +1,16 @@
+[
+  {
+    "code": "600519.SH",
+    "name": "贵州茅台",
+    "date": "2026-04-21",
+    "close": 1728.5,
+    "source": "mock_cn_provider"
+  },
+  {
+    "code": "000858.SZ",
+    "name": "五粮液",
+    "date": "2026-04-21",
+    "close": 146.28,
+    "source": "mock_cn_provider"
+  }
+]
