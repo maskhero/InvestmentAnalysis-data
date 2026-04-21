@@ -1,0 +1,16 @@
+[
+  {
+    "code": "AAPL",
+    "name": "Apple Inc.",
+    "date": "2026-04-21",
+    "close": 211.16,
+    "source": "mock_global_provider"
+  },
+  {
+    "code": "MSFT",
+    "name": "Microsoft Corporation",
+    "date": "2026-04-21",
+    "close": 428.02,
+    "source": "mock_global_provider"
+  }
+]
