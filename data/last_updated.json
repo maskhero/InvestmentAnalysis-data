@@ -1,8 +1,8 @@
 {
   "updated_at_utc": "2026-04-21T00:00:00Z",
-  "cn_fund_count": 2,
-  "cn_stock_count": 2,
-  "us_stock_count": 2,
+  "cn_fund_count": 14,
+  "cn_stock_count": 0,
+  "us_stock_count": 3,
   "fx_rate_count": 2,
   "status": "ok",
   "mode": "mock",

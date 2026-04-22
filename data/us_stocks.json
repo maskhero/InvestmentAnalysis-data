@@ -1,16 +1,23 @@
 [
   {
-    "code": "AAPL",
-    "name": "Apple Inc.",
+    "code": "ABT",
+    "name": "ABBOTT",
     "date": "2026-04-21",
-    "close": 211.16,
+    "close": 102.67,
     "source": "mock_global_provider"
   },
   {
-    "code": "MSFT",
-    "name": "Microsoft Corporation",
+    "code": "DLR",
+    "name": "DLR",
     "date": "2026-04-21",
-    "close": 428.02,
+    "close": 180.21,
+    "source": "mock_global_provider"
+  },
+  {
+    "code": "GOOGL",
+    "name": "Google",
+    "date": "2026-04-21",
+    "close": 287.56,
     "source": "mock_global_provider"
   }
 ]
