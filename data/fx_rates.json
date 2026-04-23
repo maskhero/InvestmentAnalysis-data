@@ -3,16 +3,16 @@
     "pair": "USD/CNY",
     "base": "USD",
     "quote": "CNY",
-    "date": "2026-04-21",
-    "rate": 7.2412,
-    "source": "mock_global_provider"
+    "date": "2026-04-23",
+    "rate": 6.8287,
+    "source": "yfinance"
   },
   {
     "pair": "EUR/USD",
     "base": "EUR",
     "quote": "USD",
-    "date": "2026-04-21",
-    "rate": 1.0834,
-    "source": "mock_global_provider"
+    "date": "2026-04-23",
+    "rate": 1.171,
+    "source": "yfinance"
   }
 ]

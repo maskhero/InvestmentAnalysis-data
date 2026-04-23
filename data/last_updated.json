@@ -1,13 +1,13 @@
 {
-  "updated_at_utc": "2026-04-21T00:00:00Z",
+  "updated_at_utc": "2026-04-23T06:34:46Z",
   "cn_fund_count": 14,
   "cn_stock_count": 0,
   "us_stock_count": 3,
   "fx_rate_count": 2,
   "status": "ok",
-  "mode": "mock",
+  "mode": "real",
   "providers": {
-    "cn": "mock_cn_provider",
-    "global": "mock_global_provider"
+    "cn": "akshare",
+    "global": "yfinance"
   }
 }
