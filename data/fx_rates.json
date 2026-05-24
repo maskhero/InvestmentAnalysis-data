@@ -12,7 +12,7 @@
     "base": "EUR",
     "quote": "CNY",
     "date": "2026-05-22",
-    "rate": 7.8835,
+    "rate": 7.8836,
     "source": "yfinance"
   },
   {
@@ -28,7 +28,7 @@
     "base": "AUD",
     "quote": "CNY",
     "date": "2026-05-22",
-    "rate": 4.844,
+    "rate": 4.8439,
     "source": "yfinance"
   },
   {
