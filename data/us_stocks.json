@@ -12,5 +12,12 @@
     "date": "2026-05-29",
     "close": 190.0,
     "source": "yfinance"
+  },
+  {
+    "code": "GOOGL",
+    "name": "Google",
+    "date": "2026-05-29",
+    "close": 380.34,
+    "source": "yfinance"
   }
 ]
