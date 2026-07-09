@@ -3,47 +3,47 @@
     "pair": "USD/CNY",
     "base": "USD",
     "quote": "CNY",
-    "date": "2026-07-08",
-    "rate": 6.7958,
+    "date": "2026-07-09",
+    "rate": 6.7976,
     "source": "yfinance"
   },
   {
     "pair": "EUR/CNY",
     "base": "EUR",
     "quote": "CNY",
-    "date": "2026-07-08",
-    "rate": 7.7298,
+    "date": "2026-07-09",
+    "rate": 7.767,
     "source": "yfinance"
   },
   {
     "pair": "HKD/CNY",
     "base": "HKD",
     "quote": "CNY",
-    "date": "2026-07-08",
-    "rate": 0.8661,
+    "date": "2026-07-09",
+    "rate": 0.8667,
     "source": "yfinance"
   },
   {
     "pair": "AUD/CNY",
     "base": "AUD",
     "quote": "CNY",
-    "date": "2026-07-08",
-    "rate": 4.7013,
+    "date": "2026-07-09",
+    "rate": 4.7136,
     "source": "yfinance"
   },
   {
     "pair": "JPY/CNY",
     "base": "JPY",
     "quote": "CNY",
-    "date": "2026-07-08",
-    "rate": 0.041695,
+    "date": "2026-07-09",
+    "rate": 0.04181,
     "source": "yfinance"
   },
   {
     "pair": "VND/CNY",
     "base": "VND",
     "quote": "CNY",
-    "date": "2026-07-08",
+    "date": "2026-07-09",
     "rate": 0.000259,
     "source": "yfinance"
   }
