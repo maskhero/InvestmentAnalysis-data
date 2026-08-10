@@ -7,13 +7,6 @@
     "source": "yfinance"
   },
   {
-    "code": "DLR",
-    "name": "DLR",
-    "date": "2026-08-07",
-    "close": 193.8,
-    "source": "yfinance"
-  },
-  {
     "code": "GOOGL",
     "name": "Google",
     "date": "2026-08-07",
