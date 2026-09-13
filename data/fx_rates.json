@@ -3,8 +3,8 @@
     "pair": "USD/CNY",
     "base": "USD",
     "quote": "CNY",
-    "date": "2026-09-12",
-    "rate": 6.7075,
+    "date": "2026-09-13",
+    "rate": 6.7076,
     "source": "yfinance"
   },
   {
@@ -12,7 +12,7 @@
     "base": "EUR",
     "quote": "CNY",
     "date": "2026-09-12",
-    "rate": 7.7539,
+    "rate": 7.7834,
     "source": "yfinance"
   },
   {
@@ -20,7 +20,7 @@
     "base": "HKD",
     "quote": "CNY",
     "date": "2026-09-12",
-    "rate": 0.8549,
+    "rate": 0.8538,
     "source": "yfinance"
   },
   {
