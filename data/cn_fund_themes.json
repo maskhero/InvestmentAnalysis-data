@@ -1,0 +1,570 @@
+{
+  "updated_at_utc": "2026-09-22T09:52:24Z",
+  "watchlist_as_of_date": "2026-09-22",
+  "selection_policy": "Each theme contains six representative mainland-distributed public funds. Index funds and ETF feeder funds are preferred for transparent theme exposure; A shares are used where available.",
+  "theme_count": 10,
+  "fund_membership_count": 60,
+  "unique_fund_count": 60,
+  "themes": [
+    {
+      "rank": 1,
+      "id": "ai_compute",
+      "name": "AI算力/国产算力",
+      "fund_count": 6,
+      "funds": [
+        {
+          "code": "008585",
+          "name": "华夏人工智能ETF联接A",
+          "date": "2026-09-21",
+          "nav": 1.636,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "012733",
+          "name": "易方达中证人工智能主题ETF联接A",
+          "date": "2026-09-21",
+          "nav": 2.0517,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "011839",
+          "name": "天弘中证人工智能主题ETF发起联接A",
+          "date": "2026-09-21",
+          "nav": 1.8141,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "017853",
+          "name": "易方达云计算ETF联接A",
+          "date": "2026-09-21",
+          "nav": 1.558,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "019868",
+          "name": "华夏云计算与大数据ETF联接A",
+          "date": "2026-09-21",
+          "nav": 1.618,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "012321",
+          "name": "东财云计算增强A",
+          "date": "2026-09-21",
+          "nav": 1.5356,
+          "source": "akshare",
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "id": "semiconductor",
+      "name": "半导体/芯片/设备材料",
+      "fund_count": 6,
+      "funds": [
+        {
+          "code": "007300",
+          "name": "国联安中证半导体ETF联接A",
+          "date": "2026-09-21",
+          "nav": 4.045,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "008281",
+          "name": "国泰CES半导体芯片行业ETF联接A",
+          "date": "2026-09-21",
+          "nav": 2.5677,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "008887",
+          "name": "华夏国证半导体芯片ETF联接A",
+          "date": "2026-09-21",
+          "nav": 2.0132,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "012629",
+          "name": "广发国证半导体芯片ETF联接A",
+          "date": "2026-09-21",
+          "nav": 1.3675,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "019632",
+          "name": "国泰半导体设备ETF联接A",
+          "date": "2026-09-21",
+          "nav": 2.896,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "020356",
+          "name": "华夏半导体材料设备ETF联接A",
+          "date": "2026-09-21",
+          "nav": 3.4773,
+          "source": "akshare",
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "id": "innovative_drugs",
+      "name": "AI+创新药/医药生物/CXO",
+      "fund_count": 6,
+      "funds": [
+        {
+          "code": "012737",
+          "name": "广发创新药ETF联接A",
+          "date": "2026-09-21",
+          "nav": 0.6184,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "012781",
+          "name": "银华中证创新药产业ETF发起式联接A",
+          "date": "2026-09-21",
+          "nav": 0.7167,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "014117",
+          "name": "国泰创新药ETF联接A",
+          "date": "2026-09-21",
+          "nav": 0.893,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "014564",
+          "name": "天弘创新药精选50ETF联接A",
+          "date": "2026-09-21",
+          "nav": 1.3843,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "019666",
+          "name": "易方达中证创新药产业ETF联接发起式A",
+          "date": "2026-09-21",
+          "nav": 1.0514,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "019670",
+          "name": "广发港股创新药ETF联接(QDII)A",
+          "date": "2026-09-21",
+          "nav": 1.444,
+          "source": "akshare",
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "id": "gold_nonferrous",
+      "name": "黄金/贵金属/有色资源",
+      "fund_count": 6,
+      "funds": [
+        {
+          "code": "000216",
+          "name": "华安黄金ETF联接A",
+          "date": "2026-09-21",
+          "nav": 3.2452,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "000307",
+          "name": "易方达黄金ETF联接A",
+          "date": "2026-09-21",
+          "nav": 3.0756,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "002610",
+          "name": "博时黄金ETF联接A",
+          "date": "2026-09-21",
+          "nav": 3.0522,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "004432",
+          "name": "南方有色金属ETF联接A",
+          "date": "2026-09-21",
+          "nav": 1.7078,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "016707",
+          "name": "华夏有色金属ETF联接A",
+          "date": "2026-09-21",
+          "nav": 1.7039,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "013942",
+          "name": "华宝中证稀有金属指数增强发起A",
+          "date": "2026-09-21",
+          "nav": 1.0218,
+          "source": "akshare",
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "id": "dividend_value",
+      "name": "红利/高股息/价值策略",
+      "fund_count": 6,
+      "funds": [
+        {
+          "code": "009051",
+          "name": "易方达中证红利ETF联接发起式A",
+          "date": "2026-09-21",
+          "nav": 1.2827,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "012643",
+          "name": "招商中证红利ETF联接A",
+          "date": "2026-09-21",
+          "nav": 1.1427,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "012761",
+          "name": "华泰柏瑞上证红利ETF联接A",
+          "date": "2026-09-21",
+          "nav": 1.1423,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "007466",
+          "name": "华泰柏瑞中证红利低波ETF联接A",
+          "date": "2026-09-21",
+          "nav": 1.6265,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "008114",
+          "name": "天弘中证红利低波动100联接A",
+          "date": "2026-09-21",
+          "nav": 1.6367,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "018387",
+          "name": "华泰柏瑞港股通红利ETF联接基金A",
+          "date": "2026-09-21",
+          "nav": 1.3544,
+          "source": "akshare",
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "id": "communications",
+      "name": "通信设备/光通信/PCB",
+      "fund_count": 6,
+      "funds": [
+        {
+          "code": "007817",
+          "name": "国泰中证全指通信设备ETF联接A",
+          "date": "2026-09-21",
+          "nav": 4.0392,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "008086",
+          "name": "华夏中证5G通信主题ETF联接A",
+          "date": "2026-09-21",
+          "nav": 3.0968,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "008889",
+          "name": "银华中证5G通信主题ETF联接A",
+          "date": "2026-09-21",
+          "nav": 2.3969,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "020691",
+          "name": "博时中证全指通信设备指数发起式A",
+          "date": "2026-09-21",
+          "nav": 3.4796,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "020899",
+          "name": "天弘中证全指通信设备指数发起A",
+          "date": "2026-09-21",
+          "nav": 3.726,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "021933",
+          "name": "富国中证通信设备主题ETF发起式联接A",
+          "date": "2026-09-21",
+          "nav": 3.6101,
+          "source": "akshare",
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "id": "consumer_electronics",
+      "name": "消费电子/AI终端/智能硬件",
+      "fund_count": 6,
+      "funds": [
+        {
+          "code": "012319",
+          "name": "东财消费电子增强A",
+          "date": "2026-09-21",
+          "nav": 1.6119,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "015876",
+          "name": "富国中证消费电子主题ETF发起式联接A",
+          "date": "2026-09-21",
+          "nav": 1.9561,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "015894",
+          "name": "平安中证消费电子主题ETF发起式联接A",
+          "date": "2026-09-21",
+          "nav": 1.7808,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "016007",
+          "name": "招商中证消费电子主题ETF联接A",
+          "date": "2026-09-21",
+          "nav": 2.0808,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "018300",
+          "name": "华夏消费电子ETF联接A",
+          "date": "2026-09-21",
+          "nav": 1.9889,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "018896",
+          "name": "易方达消费电子ETF联接A",
+          "date": "2026-09-21",
+          "nav": 2.343,
+          "source": "akshare",
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "id": "agriculture",
+      "name": "粮食产业/农业/畜牧养殖",
+      "fund_count": 6,
+      "funds": [
+        {
+          "code": "020650",
+          "name": "博时国证粮食产业ETF发起式联接A",
+          "date": "2026-09-21",
+          "nav": 1.0544,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "021086",
+          "name": "鹏华国证粮食产业ETF发起式联接A",
+          "date": "2026-09-21",
+          "nav": 1.0597,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "010769",
+          "name": "天弘中证农业主题ETF联接A",
+          "date": "2026-09-21",
+          "nav": 0.7531,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "015878",
+          "name": "富国中证农业主题ETF联接A",
+          "date": "2026-09-21",
+          "nav": 0.7679,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "012724",
+          "name": "国泰中证畜牧养殖ETF联接A",
+          "date": "2026-09-21",
+          "nav": 0.6828,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "014414",
+          "name": "招商中证畜牧养殖ETF联接A",
+          "date": "2026-09-21",
+          "nav": 0.7718,
+          "source": "akshare",
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "id": "new_energy_vehicle",
+      "name": "新能源车/电池/固态电池",
+      "fund_count": 6,
+      "funds": [
+        {
+          "code": "013179",
+          "name": "广发国证新能源车电池ETF联接A",
+          "date": "2026-09-21",
+          "nav": 0.7099,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "010805",
+          "name": "东财新能源车A",
+          "date": "2026-09-21",
+          "nav": 1.0457,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "011512",
+          "name": "天弘中证新能源车A",
+          "date": "2026-09-21",
+          "nav": 1.0219,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "012862",
+          "name": "汇添富中证电池主题ETF发起式联接A",
+          "date": "2026-09-21",
+          "nav": 0.6622,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "015873",
+          "name": "工银锂电池ETF联接A",
+          "date": "2026-09-21",
+          "nav": 0.7582,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "016019",
+          "name": "招商中证电池主题ETF联接A",
+          "date": "2026-09-21",
+          "nav": 0.7206,
+          "source": "akshare",
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "id": "satellite_aerospace",
+      "name": "卫星产业/航天航空/军工科技",
+      "fund_count": 6,
+      "funds": [
+        {
+          "code": "024748",
+          "name": "博时中证卫星产业指数A",
+          "date": "2026-09-21",
+          "nav": 0.9772,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "024194",
+          "name": "永赢国证商用卫星通信产业ETF发起联接A",
+          "date": "2026-09-21",
+          "nav": 1.3113,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "018027",
+          "name": "嘉实中证智选航空航天科技ETF发起联接A",
+          "date": "2026-09-21",
+          "nav": 0.8827,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "501019",
+          "name": "国泰国证航天军工指数(LOF)A",
+          "date": "2026-09-21",
+          "nav": 1.2587,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "003017",
+          "name": "广发中证军工ETF联接A",
+          "date": "2026-09-21",
+          "nav": 1.158,
+          "source": "akshare",
+          "status": "ok"
+        },
+        {
+          "code": "001475",
+          "name": "易方达国防军工混合A",
+          "date": "2026-09-21",
+          "nav": 2.399,
+          "source": "akshare",
+          "status": "ok"
+        }
+      ]
+    }
+  ]
+}

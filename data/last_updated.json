@@ -1,9 +1,12 @@
 {
-  "updated_at_utc": "2026-09-22T06:00:13Z",
-  "cn_fund_count": 15,
+  "updated_at_utc": "2026-09-22T09:52:24Z",
+  "cn_fund_count": 73,
   "cn_stock_count": 0,
   "us_stock_count": 3,
   "fx_rate_count": 6,
+  "theme_count": 10,
+  "theme_fund_membership_count": 60,
+  "unique_theme_fund_count": 60,
   "status": "ok",
   "mode": "real",
   "providers": {
