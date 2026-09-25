@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-09-24T14:40:02Z",
+  "updated_at_utc": "2026-09-25T15:01:23Z",
   "watchlist_as_of_date": "2026-09-22",
   "selection_policy": "Each theme contains six representative mainland-distributed public funds. Index funds and ETF feeder funds are preferred for transparent theme exposure; A shares are used where available.",
   "theme_count": 10,
@@ -199,8 +199,8 @@
         {
           "code": "002610",
           "name": "博时黄金ETF联接A",
-          "date": "2026-09-23",
-          "nav": 3.0387,
+          "date": "2026-09-24",
+          "nav": 3.0129,
           "source": "akshare",
           "status": "ok"
         },
