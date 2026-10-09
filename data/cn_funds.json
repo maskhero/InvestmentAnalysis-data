@@ -2,8 +2,8 @@
   {
     "code": "000216",
     "name": "华安黄金ETF联接A",
-    "date": "2026-10-08",
-    "nav": 3.0839,
+    "date": "2026-10-09",
+    "nav": 3.1251,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -19,8 +19,8 @@
   {
     "code": "000307",
     "name": "易方达黄金ETF联接A",
-    "date": "2026-10-08",
-    "nav": 2.9229,
+    "date": "2026-10-09",
+    "nav": 2.9618,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -36,8 +36,8 @@
   {
     "code": "001475",
     "name": "易方达国防军工混合A",
-    "date": "2026-10-08",
-    "nav": 2.205,
+    "date": "2026-10-09",
+    "nav": 2.156,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -53,8 +53,8 @@
   {
     "code": "001714",
     "name": "工银瑞信文体产业A",
-    "date": "2026-10-08",
-    "nav": 2.759,
+    "date": "2026-10-09",
+    "nav": 2.837,
     "source": "akshare",
     "status": "ok",
     "themes": [],
@@ -66,8 +66,8 @@
   {
     "code": "002610",
     "name": "博时黄金ETF联接A",
-    "date": "2026-10-08",
-    "nav": 2.9028,
+    "date": "2026-10-09",
+    "nav": 2.9411,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -83,8 +83,8 @@
   {
     "code": "002920",
     "name": "中欧短债A",
-    "date": "2026-10-08",
-    "nav": 1.0857,
+    "date": "2026-10-09",
+    "nav": 1.0858,
     "source": "akshare",
     "status": "ok",
     "themes": [],
@@ -96,8 +96,8 @@
   {
     "code": "003017",
     "name": "广发中证军工ETF联接A",
-    "date": "2026-10-08",
-    "nav": 1.084,
+    "date": "2026-10-09",
+    "nav": 1.0692,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -113,8 +113,8 @@
   {
     "code": "003133",
     "name": "易方达裕鑫债券A",
-    "date": "2026-10-08",
-    "nav": 1.7574,
+    "date": "2026-10-09",
+    "nav": 1.7703,
     "source": "akshare",
     "status": "ok",
     "themes": [],
@@ -126,8 +126,8 @@
   {
     "code": "004432",
     "name": "南方有色金属ETF联接A",
-    "date": "2026-10-08",
-    "nav": 1.5929,
+    "date": "2026-10-09",
+    "nav": 1.6286,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -143,8 +143,8 @@
   {
     "code": "005051",
     "name": "摩根标普港股通低波红利指数A",
-    "date": "2026-10-08",
-    "nav": 1.2358,
+    "date": "2026-10-09",
+    "nav": 1.2485,
     "source": "akshare",
     "status": "ok",
     "themes": [],
@@ -156,8 +156,8 @@
   {
     "code": "005827",
     "name": "易方达蓝筹精选",
-    "date": "2026-10-08",
-    "nav": 1.4333,
+    "date": "2026-10-09",
+    "nav": 1.4359,
     "source": "akshare",
     "status": "ok",
     "themes": [],
@@ -169,8 +169,8 @@
   {
     "code": "005974",
     "name": "东方红配置精选A",
-    "date": "2026-10-08",
-    "nav": 1.6159,
+    "date": "2026-10-09",
+    "nav": 1.6213,
     "source": "akshare",
     "status": "ok",
     "themes": [],
@@ -182,8 +182,8 @@
   {
     "code": "007300",
     "name": "国联安中证半导体ETF联接A",
-    "date": "2026-10-08",
-    "nav": 3.5792,
+    "date": "2026-10-09",
+    "nav": 3.566,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -199,8 +199,8 @@
   {
     "code": "007466",
     "name": "华泰柏瑞中证红利低波ETF联接A",
-    "date": "2026-10-08",
-    "nav": 1.6591,
+    "date": "2026-10-09",
+    "nav": 1.6548,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -216,8 +216,8 @@
   {
     "code": "007817",
     "name": "国泰中证全指通信设备ETF联接A",
-    "date": "2026-10-08",
-    "nav": 3.4135,
+    "date": "2026-10-09",
+    "nav": 3.3936,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -233,8 +233,8 @@
   {
     "code": "008086",
     "name": "华夏中证5G通信主题ETF联接A",
-    "date": "2026-10-08",
-    "nav": 2.6541,
+    "date": "2026-10-09",
+    "nav": 2.6111,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -250,8 +250,8 @@
   {
     "code": "008114",
     "name": "天弘中证红利低波动100联接A",
-    "date": "2026-10-08",
-    "nav": 1.6636,
+    "date": "2026-10-09",
+    "nav": 1.6709,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -267,8 +267,8 @@
   {
     "code": "008281",
     "name": "国泰CES半导体芯片行业ETF联接A",
-    "date": "2026-10-08",
-    "nav": 2.2794,
+    "date": "2026-10-09",
+    "nav": 2.2747,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -284,8 +284,8 @@
   {
     "code": "008585",
     "name": "华夏人工智能ETF联接A",
-    "date": "2026-10-08",
-    "nav": 1.4803,
+    "date": "2026-10-09",
+    "nav": 1.4826,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -301,8 +301,8 @@
   {
     "code": "008887",
     "name": "华夏国证半导体芯片ETF联接A",
-    "date": "2026-10-08",
-    "nav": 1.7593,
+    "date": "2026-10-09",
+    "nav": 1.7502,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -318,8 +318,8 @@
   {
     "code": "008889",
     "name": "银华中证5G通信主题ETF联接A",
-    "date": "2026-10-08",
-    "nav": 2.058,
+    "date": "2026-10-09",
+    "nav": 2.0256,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -335,8 +335,8 @@
   {
     "code": "009051",
     "name": "易方达中证红利ETF联接A",
-    "date": "2026-10-08",
-    "nav": 1.2901,
+    "date": "2026-10-09",
+    "nav": 1.2995,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -353,8 +353,8 @@
   {
     "code": "010769",
     "name": "天弘中证农业主题ETF联接A",
-    "date": "2026-10-08",
-    "nav": 0.7296,
+    "date": "2026-10-09",
+    "nav": 0.7401,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -370,8 +370,8 @@
   {
     "code": "010805",
     "name": "东财新能源车A",
-    "date": "2026-10-08",
-    "nav": 1.0094,
+    "date": "2026-10-09",
+    "nav": 1.0241,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -387,8 +387,8 @@
   {
     "code": "011512",
     "name": "天弘中证新能源车A",
-    "date": "2026-10-08",
-    "nav": 0.9876,
+    "date": "2026-10-09",
+    "nav": 1.0024,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -404,8 +404,8 @@
   {
     "code": "011839",
     "name": "天弘中证人工智能主题ETF发起联接A",
-    "date": "2026-10-08",
-    "nav": 1.6421,
+    "date": "2026-10-09",
+    "nav": 1.6434,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -421,8 +421,8 @@
   {
     "code": "012319",
     "name": "东财消费电子增强A",
-    "date": "2026-10-08",
-    "nav": 1.4266,
+    "date": "2026-10-09",
+    "nav": 1.4101,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -438,8 +438,8 @@
   {
     "code": "012321",
     "name": "东财云计算增强A",
-    "date": "2026-10-08",
-    "nav": 1.4171,
+    "date": "2026-10-09",
+    "nav": 1.4352,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -455,8 +455,8 @@
   {
     "code": "012629",
     "name": "广发国证半导体芯片ETF联接A",
-    "date": "2026-10-08",
-    "nav": 1.1964,
+    "date": "2026-10-09",
+    "nav": 1.1908,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -472,8 +472,8 @@
   {
     "code": "012643",
     "name": "招商中证红利ETF联接A",
-    "date": "2026-10-08",
-    "nav": 1.1492,
+    "date": "2026-10-09",
+    "nav": 1.158,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -489,8 +489,8 @@
   {
     "code": "012724",
     "name": "国泰中证畜牧养殖ETF联接A",
-    "date": "2026-10-08",
-    "nav": 0.6602,
+    "date": "2026-10-09",
+    "nav": 0.6671,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -506,8 +506,8 @@
   {
     "code": "012733",
     "name": "易方达中证人工智能主题ETF联接A",
-    "date": "2026-10-08",
-    "nav": 1.8595,
+    "date": "2026-10-09",
+    "nav": 1.8622,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -523,8 +523,8 @@
   {
     "code": "012737",
     "name": "广发创新药ETF联接A",
-    "date": "2026-10-08",
-    "nav": 0.5989,
+    "date": "2026-10-09",
+    "nav": 0.6012,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -540,8 +540,8 @@
   {
     "code": "012761",
     "name": "华泰柏瑞上证红利ETF联接A",
-    "date": "2026-10-08",
-    "nav": 1.1511,
+    "date": "2026-10-09",
+    "nav": 1.157,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -557,8 +557,8 @@
   {
     "code": "012781",
     "name": "银华中证创新药产业ETF发起式联接A",
-    "date": "2026-10-08",
-    "nav": 0.6942,
+    "date": "2026-10-09",
+    "nav": 0.6968,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -574,8 +574,8 @@
   {
     "code": "012862",
     "name": "汇添富中证电池主题ETF发起式联接A",
-    "date": "2026-10-08",
-    "nav": 0.6418,
+    "date": "2026-10-09",
+    "nav": 0.6462,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -591,8 +591,8 @@
   {
     "code": "013179",
     "name": "广发国证新能源汽车 电池ETF发起联接A",
-    "date": "2026-10-08",
-    "nav": 0.687,
+    "date": "2026-10-09",
+    "nav": 0.6979,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -609,8 +609,8 @@
   {
     "code": "013942",
     "name": "华宝中证稀有金属指数增强发起A",
-    "date": "2026-10-08",
-    "nav": 0.948,
+    "date": "2026-10-09",
+    "nav": 0.9589,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -626,8 +626,8 @@
   {
     "code": "014117",
     "name": "国泰创新药ETF联接A",
-    "date": "2026-10-08",
-    "nav": 0.8628,
+    "date": "2026-10-09",
+    "nav": 0.8594,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -643,8 +643,8 @@
   {
     "code": "014414",
     "name": "招商中证畜牧养殖ETF联接A",
-    "date": "2026-10-08",
-    "nav": 0.7467,
+    "date": "2026-10-09",
+    "nav": 0.7546,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -660,8 +660,8 @@
   {
     "code": "014438",
     "name": "博时恒生科技EFT联接A",
-    "date": "2026-10-08",
-    "nav": 0.7445,
+    "date": "2026-10-09",
+    "nav": 0.7655,
     "source": "akshare",
     "status": "ok",
     "themes": [],
@@ -673,8 +673,8 @@
   {
     "code": "014564",
     "name": "天弘创新药精选50ETF联接A",
-    "date": "2026-10-08",
-    "nav": 1.3362,
+    "date": "2026-10-09",
+    "nav": 1.3275,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -690,8 +690,8 @@
   {
     "code": "015873",
     "name": "工银锂电池ETF联接A",
-    "date": "2026-10-08",
-    "nav": 0.7336,
+    "date": "2026-10-09",
+    "nav": 0.7453,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -707,8 +707,8 @@
   {
     "code": "015876",
     "name": "富国中证消费电子主题ETF发起式联接A",
-    "date": "2026-10-08",
-    "nav": 1.7338,
+    "date": "2026-10-09",
+    "nav": 1.7136,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -724,8 +724,8 @@
   {
     "code": "015878",
     "name": "富国中证农业主题ETF联接A",
-    "date": "2026-10-08",
-    "nav": 0.7422,
+    "date": "2026-10-09",
+    "nav": 0.7528,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -741,8 +741,8 @@
   {
     "code": "015894",
     "name": "平安中证消费电子主题ETF发起式联接A",
-    "date": "2026-10-08",
-    "nav": 1.5875,
+    "date": "2026-10-09",
+    "nav": 1.5687,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -758,8 +758,8 @@
   {
     "code": "016007",
     "name": "招商中证消费电子主题ETF联接A",
-    "date": "2026-10-08",
-    "nav": 1.8532,
+    "date": "2026-10-09",
+    "nav": 1.8316,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -775,8 +775,8 @@
   {
     "code": "016019",
     "name": "招商中证电池主题ETF联接A",
-    "date": "2026-10-08",
-    "nav": 0.6981,
+    "date": "2026-10-09",
+    "nav": 0.7029,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -792,8 +792,8 @@
   {
     "code": "016707",
     "name": "华夏有色金属ETF联接A",
-    "date": "2026-10-08",
-    "nav": 1.5928,
+    "date": "2026-10-09",
+    "nav": 1.6337,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -809,8 +809,8 @@
   {
     "code": "017477",
     "name": "安信睿见优选混合A",
-    "date": "2026-10-08",
-    "nav": 1.1464,
+    "date": "2026-10-09",
+    "nav": 1.1637,
     "source": "akshare",
     "status": "ok",
     "themes": [],
@@ -822,8 +822,8 @@
   {
     "code": "017853",
     "name": "易方达云计算ETF联接A",
-    "date": "2026-10-08",
-    "nav": 1.4417,
+    "date": "2026-10-09",
+    "nav": 1.4603,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -839,8 +839,8 @@
   {
     "code": "018027",
     "name": "嘉实中证智选航空航天科技ETF发起联接A",
-    "date": "2026-10-08",
-    "nav": 0.8369,
+    "date": "2026-10-09",
+    "nav": 0.8315,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -856,8 +856,8 @@
   {
     "code": "018300",
     "name": "华夏消费电子ETF联接A",
-    "date": "2026-10-08",
-    "nav": 1.7558,
+    "date": "2026-10-09",
+    "nav": 1.7341,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -873,8 +873,8 @@
   {
     "code": "018312",
     "name": "易方达如意安诚六个月持有混合（FOF）A",
-    "date": "2026-09-29",
-    "nav": 1.1053,
+    "date": "2026-09-30",
+    "nav": 1.1059,
     "source": "akshare",
     "status": "ok",
     "themes": [],
@@ -886,8 +886,8 @@
   {
     "code": "018387",
     "name": "华泰柏瑞港股通红利ETF联接基金A",
-    "date": "2026-10-08",
-    "nav": 1.3261,
+    "date": "2026-10-09",
+    "nav": 1.3398,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -903,8 +903,8 @@
   {
     "code": "018896",
     "name": "易方达消费电子ETF联接A",
-    "date": "2026-10-08",
-    "nav": 2.0808,
+    "date": "2026-10-09",
+    "nav": 2.0565,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -920,8 +920,8 @@
   {
     "code": "019487",
     "name": "广发添盈债券A",
-    "date": "2026-10-08",
-    "nav": 1.0798,
+    "date": "2026-10-09",
+    "nav": 1.08,
     "source": "akshare",
     "status": "ok",
     "themes": [],
@@ -933,8 +933,8 @@
   {
     "code": "019488",
     "name": "广发添盈债券C",
-    "date": "2026-10-08",
-    "nav": 1.0742,
+    "date": "2026-10-09",
+    "nav": 1.0743,
     "source": "akshare",
     "status": "ok",
     "themes": [],
@@ -946,8 +946,8 @@
   {
     "code": "019632",
     "name": "国泰半导体设备ETF联接A",
-    "date": "2026-10-08",
-    "nav": 2.5465,
+    "date": "2026-10-09",
+    "nav": 2.5278,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -963,8 +963,8 @@
   {
     "code": "019666",
     "name": "易方达中证创新药产业ETF联接发起式A",
-    "date": "2026-10-08",
-    "nav": 1.0185,
+    "date": "2026-10-09",
+    "nav": 1.0224,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -980,8 +980,8 @@
   {
     "code": "019670",
     "name": "广发港股创新药ETF联接(QDII)A",
-    "date": "2026-10-08",
-    "nav": 1.3844,
+    "date": "2026-10-09",
+    "nav": 1.3832,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -997,8 +997,8 @@
   {
     "code": "019868",
     "name": "华夏云计算与大数据ETF联接A",
-    "date": "2026-10-08",
-    "nav": 1.4977,
+    "date": "2026-10-09",
+    "nav": 1.5169,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -1014,8 +1014,8 @@
   {
     "code": "020356",
     "name": "华夏半导体材料设备ETF联接A",
-    "date": "2026-10-08",
-    "nav": 3.0318,
+    "date": "2026-10-09",
+    "nav": 3.0041,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -1031,8 +1031,8 @@
   {
     "code": "020650",
     "name": "博时国证粮食产业ETF发起式联接A",
-    "date": "2026-10-08",
-    "nav": 0.9944,
+    "date": "2026-10-09",
+    "nav": 1.032,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -1048,8 +1048,8 @@
   {
     "code": "020691",
     "name": "博时中证全指通信设备指数发起式A",
-    "date": "2026-10-08",
-    "nav": 2.9416,
+    "date": "2026-10-09",
+    "nav": 2.9246,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -1065,8 +1065,8 @@
   {
     "code": "020899",
     "name": "天弘中证全指通信设备指数发起A",
-    "date": "2026-10-08",
-    "nav": 3.1408,
+    "date": "2026-10-09",
+    "nav": 3.122,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -1082,8 +1082,8 @@
   {
     "code": "021086",
     "name": "鹏华国证粮食产业ETF发起式联接A",
-    "date": "2026-10-08",
-    "nav": 0.9992,
+    "date": "2026-10-09",
+    "nav": 1.0371,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -1099,8 +1099,8 @@
   {
     "code": "021933",
     "name": "富国中证通信设备主题ETF发起式联接A",
-    "date": "2026-10-08",
-    "nav": 3.0763,
+    "date": "2026-10-09",
+    "nav": 3.0506,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -1116,8 +1116,8 @@
   {
     "code": "022978",
     "name": "博时臻选楚汇三个月持有债券(FOF)B",
-    "date": "2026-09-29",
-    "nav": 1.085,
+    "date": "2026-09-30",
+    "nav": 1.0846,
     "source": "akshare",
     "status": "ok",
     "themes": [],
@@ -1129,8 +1129,8 @@
   {
     "code": "024194",
     "name": "永赢国证商用卫星通信产业ETF发起联接A",
-    "date": "2026-10-08",
-    "nav": 1.2118,
+    "date": "2026-10-09",
+    "nav": 1.1887,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -1146,8 +1146,8 @@
   {
     "code": "024748",
     "name": "博时中证卫星产业指数A",
-    "date": "2026-10-08",
-    "nav": 0.9066,
+    "date": "2026-10-09",
+    "nav": 0.8919,
     "source": "akshare",
     "status": "ok",
     "themes": [
@@ -1163,8 +1163,8 @@
   {
     "code": "110007",
     "name": "易方达稳健收益A",
-    "date": "2026-10-08",
-    "nav": 1.4092,
+    "date": "2026-10-09",
+    "nav": 1.4116,
     "source": "akshare",
     "status": "ok",
     "themes": [],
@@ -1176,8 +1176,8 @@
   {
     "code": "501019",
     "name": "国泰国证航天军工指数(LOF)A",
-    "date": "2026-10-08",
-    "nav": 1.1857,
+    "date": "2026-10-09",
+    "nav": 1.1686,
     "source": "akshare",
     "status": "ok",
     "themes": [
