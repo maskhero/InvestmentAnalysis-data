@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-10-23T14:42:04Z",
+  "updated_at_utc": "2026-10-24T13:53:21Z",
   "watchlist_as_of_date": "2026-09-22",
   "selection_policy": "Each theme contains six representative mainland-distributed public funds. Index funds and ETF feeder funds are preferred for transparent theme exposure; A shares are used where available.",
   "theme_count": 10,
@@ -79,8 +79,8 @@
         {
           "code": "008281",
           "name": "国泰CES半导体芯片行业ETF联接A",
-          "date": "2026-10-22",
-          "nav": 2.042,
+          "date": "2026-10-23",
+          "nav": 2.1003,
           "source": "akshare",
           "status": "ok"
         },
@@ -295,8 +295,8 @@
         {
           "code": "007817",
           "name": "国泰中证全指通信设备ETF联接A",
-          "date": "2026-10-22",
-          "nav": 2.9184,
+          "date": "2026-10-23",
+          "nav": 2.9723,
           "source": "akshare",
           "status": "ok"
         },
