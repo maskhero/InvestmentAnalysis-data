@@ -2,22 +2,22 @@
   {
     "code": "ABT",
     "name": "ABBOTT",
-    "date": "2026-10-28",
-    "close": 102.64,
+    "date": "2026-10-29",
+    "close": 104.57,
     "source": "yfinance"
   },
   {
     "code": "DLR",
     "name": "DLR",
-    "date": "2026-10-28",
-    "close": 179.77,
+    "date": "2026-10-29",
+    "close": 182.91,
     "source": "yfinance"
   },
   {
     "code": "GOOGL",
     "name": "Google",
-    "date": "2026-10-28",
-    "close": 324.89,
+    "date": "2026-10-29",
+    "close": 283.82,
     "source": "yfinance"
   }
 ]
